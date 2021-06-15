@@ -1,0 +1,17 @@
+# Python3
+python3/venv/*
+python3/*.pyc
+python3/__pycache__/
+python3/.pytest_cache/
+
+instance/
+
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
+
+# Mac OS
+.DS_Store
